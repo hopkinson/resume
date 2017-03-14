@@ -2,12 +2,12 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/dist/)
+[预览](http://120.76.230.40:7081/index.html)
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone https://github.com/hopkinson/resume.git
 cd animating-resume
 npm install
 npm run dev
@@ -26,5 +26,4 @@ npm run dev
     git push
     ```
 
-3. 开启 GitHub Pages 功能
 
